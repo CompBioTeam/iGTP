@@ -1,4 +1,5 @@
 # iGTP
+![banner](https://github.com/CompBioTeam/iGTP/blob/main/iGTP.png?raw=true)
 
 The executables of iGTP can be downloaded from the following links
 - [Windows](https://iastate.box.com/s/pznakmgdk49ti5qsxltz2q2r6iutoawd)
